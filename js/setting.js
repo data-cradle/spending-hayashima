@@ -19,7 +19,7 @@ OpenSpending.Styles.Cofog = {
 
   /* yokohama cofog */
   '1': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#935B3B' },
-  '2': { icon: 'icons/publicaffairs.csv', color: '#C75746', bcolor: '#0AB971' },
+  '2': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#0AB971' },
   '3': { icon: 'icons/family2.svg', color: '#C75746', bcolor: '#4E6D00' },
   '4': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#D33673' },
   '5': { icon: 'icons/labour.svg', color: '#C75746', bcolor: '#2A3A03' },
